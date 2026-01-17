@@ -1,12 +1,11 @@
 altair
 chromadb
 crewai
-crewai[google-genai]
-databricks-connect
+# crewai[google-genai]
+# databricks-connect
 instructor
 ipython
 langchain-core
-langchain-google-genai
 litellm
 openai
 openpyxl
@@ -20,8 +19,8 @@ uvicorn
 matplotlib 
 pillow
 websockets
-google-generativeai
-google-cloud-aiplatform
-google-cloud-bigquery
-google-cloud-storage
+# google-generativeai
+# google-cloud-aiplatform
+# google-cloud-bigquery
+# google-cloud-storage
 
