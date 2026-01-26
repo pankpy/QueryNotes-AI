@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📚 QueryNotes-AI Learning Assistant
+# QueryNotes-AI Learning Assistant
 **Plug and Play with Databricks**
 
 
@@ -22,7 +22,7 @@ Transform your questions into professional study notes in seconds!
 
 ---
 
-## 🎯 What is QueryNotes-AI?
+## What is QueryNotes-AI?
 
 QueryNotes-AI is an **intelligent learning assistant** that converts your study questions into well-formatted, comprehensive notes. Simply type your questions or upload an Excel file, and get professional study materials with organized sections, clear explanations, and examples - all in a downloadable Word document.
 
@@ -33,16 +33,16 @@ QueryNotes-AI is an **intelligent learning assistant** that converts your study 
 
 ---
 
-## ✨ Key Features
+## Key Features
 
-### 🤖 **Multi-Agent AI System**
+### **Multi-Agent AI System**
 - **3 Specialized AI Agents** work together for better answers:
-  - 🔍 **Research Agent**: Analyzes your question and identifies key concepts
-  - ✍️ **Writer Agent**: Creates clear, student-friendly explanations with proper formatting
-  - ✅ **Quality Agent**: Reviews and ensures accuracy and completeness
+  - **Research Agent**: Analyzes your question and identifies key concepts
+  - **Writer Agent**: Creates clear, student-friendly explanations with proper formatting
+  - **Quality Agent**: Reviews and ensures accuracy and completeness
 - Result: More comprehensive and accurate answers than single-agent systems
 
-### 📝 **Smart Document Formatting**
+### **Smart Document Formatting**
 - **Colored Section Headers**: Automatically organizes answers into sections
   - Definition (Blue header)
   - Key Points (Blue header)
@@ -51,30 +51,30 @@ QueryNotes-AI is an **intelligent learning assistant** that converts your study 
 - **Professional Layout**: Clean, readable format perfect for studying
 - **No Manual Formatting**: AI handles all structure and organization
 
-### 📊 **Batch Processing**
+### **Batch Processing**
 - Process **up to 50 questions** at once
 - Save hours of research time
 - Real-time progress tracking
 - See completion status for each question
 
-### 📤 **Multiple Input Methods**
+### **Multiple Input Methods**
 - **Type Directly**: Quick entry for a few questions
 - **Upload Excel**: Bulk upload for comprehensive study sessions
 - **Flexible Format**: One question per line or organized spreadsheet
 
-### 🔄 **Smart Error Recovery**
+### **Smart Error Recovery**
 - Continues processing even if some questions fail
 - Saves all successfully processed questions
 - Summary report shows which questions succeeded/failed
 - Never lose your progress
 
-### 📥 **Professional Output**
+### **Professional Output**
 - **Word Document Export**: Industry-standard .docx format
 - **Print-Ready**: Perfect formatting for physical study notes
 - **Editable**: Add your own notes and highlights
 - **Shareable**: Easy to share with classmates or study groups
 
-### 🚀 **True Plug & Play**
+### **True Plug & Play**
 - Works **locally** on your computer
 - Works on **Databricks** platform
 - Minimal setup required
@@ -82,7 +82,7 @@ QueryNotes-AI is an **intelligent learning assistant** that converts your study 
 
 ---
 
-## 🎓 Who Should Use This?
+## Who Should Use This?
 
 ### For Students
 - Preparing for exams (finals, midterms, certifications)
@@ -107,7 +107,7 @@ QueryNotes-AI is an **intelligent learning assistant** that converts your study 
 
 ### Installation Steps
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 QueryNotes-AI/
@@ -242,14 +242,14 @@ Running on Databricks
 
 ---
 
-## 💡 How to Use - Detailed Guide
+## How to Use - Detailed Guide
 
 ### Method 1: Type Questions Directly
 
 **Best for:** Quick study sessions, 5-20 questions
 
 1. Open the app
-2. Go to "📝 Type Questions" tab
+2. Go to " Type Questions" tab
 3. Type your questions (one per line)
 4. Click generate button
 5. Download your notes
@@ -273,10 +273,10 @@ What is overfitting in ML?
   - Summary
 
 **Pro Tips:**
-- ✅ Be specific in your questions
-- ✅ Ask one concept per question
-- ✅ Use clear, direct language
-- ❌ Avoid vague questions like "Tell me about science"
+- Be specific in your questions
+- Ask one concept per question
+- Use clear, direct language
+- Avoid vague questions like "Tell me about science"
 
 ---
 
@@ -297,17 +297,17 @@ What is overfitting in ML?
 | What are chemical bonds? |
 
 **Requirements:**
-- ✅ Questions in **Column A only**
-- ✅ Start from **Row 2** (Row 1 can be header)
-- ✅ One question per row
-- ✅ File format: `.xlsx`
+- Questions in **Column A only**
+- Start from **Row 2** (Row 1 can be header)
+- One question per row
+- File format: `.xlsx`
 
 #### Upload Process
 
-1. Click "📤 Upload Excel" tab
+1. Click " Upload Excel" tab
 2. Click "Browse files" button
 3. Select your `.xlsx` file
-4. Wait for "✅ File uploaded successfully"
+4. Wait for " File uploaded successfully"
 5. Click generate button
 6. Download your notes
 
@@ -322,22 +322,22 @@ Row 51: (Maximum 50 questions)
 ```
 
 **Pro Tips:**
-- ✅ Organize questions by subject/chapter
-- ✅ Use descriptive sheet names
-- ✅ Keep questions clear and concise
-- ✅ Remove empty rows
+-  Organize questions by subject/chapter
+-  Use descriptive sheet names
+-  Keep questions clear and concise
+-  Remove empty rows
 
 ---
 
-## ⚙️ Settings & Options
+## Settings & Options
 
 ### Multi-Agent AI Toggle
 
 **When to use:**
-- ✅ Complex topics (physics, advanced math, philosophy)
-- ✅ Need comprehensive explanations
-- ✅ Exam preparation
-- ✅ Want highest quality answers
+- Complex topics (physics, advanced math, philosophy)
+- Need comprehensive explanations
+- Exam preparation
+- Want highest quality answers
 
 **Benefits:**
 - More detailed answers
@@ -350,10 +350,10 @@ Row 51: (Maximum 50 questions)
 **Standard Mode**
 
 **When to use:**
-- ✅ Simple questions
-- ✅ Quick reference needed
-- ✅ Time-sensitive situations
-- ✅ Basic concepts
+- Simple questions
+- Quick reference needed
+- Time-sensitive situations
+- Basic concepts
 
 **Benefits:**
 - Faster processing
@@ -426,7 +426,7 @@ Row 51: (Maximum 50 questions)
 4. **Appropriate Scope**: Not too broad, not too narrow
 ---
 
-## ⚠️ Limitations
+## Limitations
 
 - **General LLM Only**: Uses Google Gemini's general knowledge base. Cannot upload documents or textbooks for reference (RAG feature planned for future release).
 - **Processing Time**: 
@@ -443,7 +443,7 @@ Row 51: (Maximum 50 questions)
 
 ---
 
-## 🔮 Planned Features
+## Planned Features
 
 - Document upload with RAG (Retrieval-Augmented Generation)
 - PDF export option
@@ -453,18 +453,6 @@ Row 51: (Maximum 50 questions)
 
 ---
 
-## 📄 License
-
-MIT License - Free to use for educational and personal purposes
-
 ---
 <div align="center">
 
-**Made with ❤️ for students everywhere**
-
-**Study Smart, Not Hard! 📚**
-
-⭐ Star this repo if you find it helpful!
-
-</div>
----
