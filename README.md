@@ -82,29 +82,6 @@ QueryNotes-AI is an **intelligent learning assistant** that converts your study 
 
 ---
 
-## Who Should Use This?
-
-### For Students
-- Preparing for exams (finals, midterms, certifications)
-- Need quick summaries of complex topics
-- Creating organized study notes
-- Understanding difficult concepts
-- Saving time on research
-
-### For Professionals
-- Interview preparation
-- Skill development
-- Quick reference materials
-- Professional certification prep
-
-### For Educators
-- Creating teaching materials
-- Generating example answers
-- Preparing study guides
-- Course content development
-
----
-
 ### Installation Steps
 
 ## Project Structure
