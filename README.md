@@ -89,7 +89,7 @@ QueryNotes-AI is an **intelligent learning assistant** that converts your study 
 ```
 QueryNotes-AI/
 ├── .env                   # GOOGLE_API_KEY=your_actual_key_here. example: GOOGLE_API_KEY=abbbbbbbbxyz (without quote)
-├── studybuddy.py.py       # Main Streamlit app
+├── studybuddy.py          # Main Streamlit app
 ├── requirements.txt       # Python dependencies
 └── README.md              # Documentation
 
